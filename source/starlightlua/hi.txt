@@ -1,1 +1,2 @@
-hi
+this file is here so i could just make a goddamn folder in github. coding isnt fun sometimes.
+- HeyCodeSnooper
